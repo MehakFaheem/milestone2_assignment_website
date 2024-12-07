@@ -2,7 +2,7 @@
 
 import React, {useState} from "react";
 import Link from "next/link";
-import { exportTraceState } from "next/dist/trace";
+// import { exportTraceState } from "next/dist/trace";
 import { FaShoppingCart } from 'react-icons/fa';
 import { HiMenuAlt3 } from 'react-icons/hi'; //hamburger icon
 import { HiX } from 'react-icons/hi'; //close icon
